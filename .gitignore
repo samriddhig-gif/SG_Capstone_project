@@ -1,0 +1,18 @@
+# Secrets and local environments
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local evaluation outputs and temporary files
+evaluation_results/
+smoke_eval/
+run_outputs/
+tmp_eval/
+*.log
+
+# Do not commit source datasets or raw customer recordings
+Capstone_Project_Dataset_FTTT_2026/
+customer_audio/
