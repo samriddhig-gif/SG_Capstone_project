@@ -1,7 +1,7 @@
 # ZentroMart VoiceOps Agent | VoiceOps 2026
 
 **Author:** Samriddhi Gupta  
-**Repository:** https://github.com/samriddhig-gif/SG-zentromart-voiceops-agent  
+**Repository:** https://github.com/samriddhig-gif/SG_Capstone_project
 **Capstone:** Consulting & Analytics Club, IIT Guwahati × Gnani.ai
 
 An AI-powered customer-support agent for the fictional Indian e-commerce retailer ZentroMart. I built the system in four stages: a prompt-only baseline, evidence-grounded retrieval (RAG), multi-turn conversation and verified support tools, and voice input/output using Gnani.
